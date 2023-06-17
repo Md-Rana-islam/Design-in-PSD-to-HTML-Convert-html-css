@@ -1,0 +1,168 @@
+@media(max-width: 991px){
+	nav ul{
+		display: block;
+		background: rgba(174, 64, 70, .90);
+		padding: 30px 40px;
+		width: 320px;
+		height: 100vh;
+		position: absolute;
+		top: 0;
+		left: -320px;
+	}
+	nav ul .fa-solid{
+		display: block;
+		text-align: right;
+		color: #fff;
+		font-size: 35px;
+		cursor: pointer;
+		margin-bottom: 40px;
+	}
+	nav ul li a{
+		margin: 15px 0;
+	}
+	.menu-icon{
+		display: block;
+		text-align: center;
+		cursor: pointer;
+	}
+	.header-hotel-text h1{
+		font-size: 100px;
+	}
+	.hotel-popular-food{
+		text-align: center;
+	}
+	.popular-food-img img{
+		margin: 15px auto 35px;
+
+	}
+	.popular-food-text h1{
+		font-size: 60px;
+	}
+	.popular-food-text p{
+		font-size: 20px;
+	}
+	.hotel-static-percentage{
+		margin: 10px auto;
+	}
+	.hotel-pasta img{
+		width: 100%;
+		max-height: 100%;
+	}
+	.pasta-hotel-text{
+		text-align: center;
+		margin: 20px;
+	}
+	.hotel-rena-img{
+		width: 45%;
+		margin: auto;
+	}
+	.hotel-rena-text p{
+		font-size: 30px;
+		color: #3d3d3d;
+	}
+	.hotel-rena-text h1{
+		font-size: 50px;
+		color: #eb4d55;
+	}
+	.hotel-subscribe-text h1{
+		font-size: 100px;
+		color: #eb4d55;
+	}
+	.hotel-subscribe-text p{
+		font-size: 22px;
+		color: #3d3d3d;
+	}
+	.input-button input[type=email]{
+		font-size: 22px;
+	}
+	.input-button input[type=submit]{
+		padding: 14px 40px;
+	}
+	.hotel-footer-top{
+		text-align: center;
+	}
+	.hotel-footer-left{
+		text-align: center;
+	}
+	.hotel-footer-right{
+		text-align: center;
+	}
+	.hotel-footer-bottom{
+		text-align: center;
+		vertical-align: center;
+	}
+}
+@media(max-width: 770px){
+	.hotel-static .header-hotel-text h1{
+		font-size: 80px;
+		color: #fff;
+	}
+	.hotel-static .header-hotel-text p{
+		font-size: 18px;
+		color: #fff;
+	}
+	.hotel-static-percentage{
+		width: 200px;
+		height: 200px;
+		margin-top: 30px;
+	}
+	.hotel-static-percentage span{
+		font-size: 30px;
+		color: #fff;
+	}
+	.hotel-popular .header-hotel-text h1{
+		font-size: 80px;
+	}
+	.hotel-popular .header-hotel-text p{
+		font-size: 18px;
+	}
+	.header-hotel-text h1{
+		font-size: 80px;
+	}
+	.header-hotel-text p{
+		font-size: 18px;
+	}
+	.hotel-menu .header-hotel-text h1{
+		font-size: 80px;
+	}
+	.hotel-menu .header-hotel-text p{
+		font-size: 18px;
+	}
+	.hotel-menu-img{
+		margin: 10px;
+	}
+	.hotel-menu-img img{
+		width: 30%;
+		height: auto;
+		margin: auto;
+	}
+	.hotel-menu-text{
+		text-align: center;
+	}
+	.hotel-rena-img{
+		width: 55%;
+		margin: auto;
+	}
+	.hotel-subscribe-text h1{
+		font-size: 80px;
+		color: #eb4d55;
+	}
+	.hotel-subscribe-text p{
+		font-size: 18px;
+		color: #3d3d3d;
+	}
+	.input-button input[type=email]{
+		font-size: 18px;
+	}
+	.input-button input[type=submit]{
+		padding: 10px 30px;
+	}
+}
+@media(max-width: 1200px){
+	.popular-food-text h1{
+		font-size: 50px;
+	}
+	.popular-food-text p{
+		font-size: 18px;
+	}
+}
